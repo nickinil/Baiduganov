@@ -1,0 +1,32 @@
+[
+  {
+    "date": "31.12.2025",
+    "temperature": -5.5,
+    "description": "Снежно",
+    "precipitation": true
+  },
+  {
+    "date": "29.02.2024",
+    "temperature": 0.0,
+    "description": "Пасмурно",
+    "precipitation": false
+  },
+  {
+    "date": "01.01.2024",
+    "temperature": 5.0,
+    "description": "Облачно",
+    "precipitation": false
+  },
+  {
+    "date": "02.01.2024",
+    "temperature": 15.0,
+    "description": "Солнечно",
+    "precipitation": false
+  },
+  {
+    "date": "15.01.2024",
+    "temperature": -30.0,
+    "description": "Морозно",
+    "precipitation": true
+  }
+]
